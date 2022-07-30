@@ -1,0 +1,9 @@
+.avt {
+    width: auto;
+    height: 72px;
+    border-radius: 50%;
+}
+
+.content-box {
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.12);
+}
